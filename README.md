@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @br3aky0urb4ck
+- 👋 Hi, I’m @Serika
 - 👀 I’m interested in some open-source projects
 - 🌱 I’m currently learning at University of Information Technology, Viet Nam
 - 💞️ I’m looking to collaborate on open-source projects
